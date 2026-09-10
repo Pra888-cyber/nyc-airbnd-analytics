@@ -1,0 +1,257 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,price_bucket,minimum_nights,number_of_reviews,reviews_per_month,last_review,value_score,calculated_host_listings_count,is_power_host,availability_365,occupancy_pct
+2539,Clean & quiet apt home by the park,2787,John,Brooklyn,Kensington,40.64749,-73.97237,Private room,149,Mid ($75-149),1,9,0.21,2018-10-19,0.06,6,No,365,0.0
+2595,Skylit Midtown Castle,2845,Jennifer,Manhattan,Midtown,40.75362,-73.98377,Entire home/apt,225,Premium ($150-299),1,45,0.38,2019-05-21,0.2,2,No,355,2.7
+3647,THE VILLAGE OF HARLEM....NEW YORK !,4632,Elisabeth,Manhattan,Harlem,40.80902,-73.9419,Private room,150,Premium ($150-299),3,0,0.0,No reviews yet,0.0,1,No,365,0.0
+3831,Cozy Entire Floor of Brownstone,4869,LisaRoxanne,Brooklyn,Clinton Hill,40.68514,-73.95976,Entire home/apt,89,Mid ($75-149),1,270,4.64,2019-07-05,3.034,1,No,194,46.8
+5022,Entire Apt: Spacious Studio/Loft by central park,7192,Laura,Manhattan,East Harlem,40.79851,-73.94399,Entire home/apt,80,Mid ($75-149),10,9,0.1,2018-11-19,0.112,1,No,0,100.0
+5099,Large Cozy 1 BR Apartment In Midtown East,7322,Chris,Manhattan,Murray Hill,40.74767,-73.975,Entire home/apt,200,Premium ($150-299),3,74,0.59,2019-06-22,0.37,1,No,129,64.7
+5121,BlissArtsSpace!,7356,Garon,Brooklyn,Bedford-Stuyvesant,40.68688,-73.95596,Private room,60,Budget (<$75),45,49,0.4,2017-10-05,0.817,1,No,0,100.0
+5178,Large Furnished Room Near B'way ,8967,Shunichi,Manhattan,Hell's Kitchen,40.76489,-73.98493,Private room,79,Mid ($75-149),2,430,3.47,2019-06-24,5.443,1,No,220,39.7
+5203,Cozy Clean Guest Room - Family Apt,7490,MaryEllen,Manhattan,Upper West Side,40.80178,-73.96723,Private room,79,Mid ($75-149),2,118,0.99,2017-07-21,1.494,1,No,0,100.0
+5238,Cute & Cozy Lower East Side 1 bdrm,7549,Ben,Manhattan,Chinatown,40.71344,-73.99037,Entire home/apt,150,Premium ($150-299),1,160,1.33,2019-06-09,1.067,4,Yes,188,48.5
+5295,Beautiful 1br on Upper West Side,7702,Lena,Manhattan,Upper West Side,40.80316,-73.96545,Entire home/apt,135,Mid ($75-149),5,53,0.43,2019-06-22,0.393,1,No,6,98.4
+5441,Central Manhattan/near Broadway,7989,Kate,Manhattan,Hell's Kitchen,40.76076,-73.98867,Private room,85,Mid ($75-149),2,188,1.5,2019-06-23,2.212,1,No,39,89.3
+5803,"Lovely Room 1, Garden, Best Area, Legal rental",9744,Laurie,Brooklyn,South Slope,40.66829,-73.98779,Private room,89,Mid ($75-149),4,167,1.34,2019-06-24,1.876,3,Yes,314,14.0
+6021,Wonderful Guest Bedroom in Manhattan for SINGLES,11528,Claudio,Manhattan,Upper West Side,40.79826,-73.96113,Private room,85,Mid ($75-149),2,113,0.91,2019-07-05,1.329,1,No,333,8.8
+6090,West Village Nest - Superhost,11975,Alina,Manhattan,West Village,40.7353,-74.00525,Entire home/apt,120,Mid ($75-149),90,27,0.22,2018-10-31,0.225,1,No,0,100.0
+6848,Only 2 stops to Manhattan studio,15991,Allen & Irina,Brooklyn,Williamsburg,40.70837,-73.95352,Entire home/apt,140,Mid ($75-149),2,148,1.2,2019-06-29,1.057,1,No,46,87.4
+7097,Perfect for Your Parents + Garden,17571,Jane,Brooklyn,Fort Greene,40.69169,-73.97185,Entire home/apt,215,Premium ($150-299),2,198,1.72,2019-06-28,0.921,1,No,321,12.1
+7322,Chelsea Perfect,18946,Doti,Manhattan,Chelsea,40.74192,-73.99501,Private room,140,Mid ($75-149),1,260,2.12,2019-07-01,1.857,1,No,12,96.7
+7726,Hip Historic Brownstone Apartment with Backyard,20950,Adam And Charity,Brooklyn,Crown Heights,40.67592,-73.94694,Entire home/apt,99,Mid ($75-149),3,53,4.44,2019-06-22,0.535,1,No,21,94.2
+7750,Huge 2 BR Upper East  Cental Park,17985,Sing,Manhattan,East Harlem,40.79685,-73.94872,Entire home/apt,190,Premium ($150-299),7,0,0.0,No reviews yet,0.0,2,No,249,31.8
+7801,Sweet and Spacious Brooklyn Loft,21207,Chaya,Brooklyn,Williamsburg,40.71842,-73.95718,Entire home/apt,299,Premium ($150-299),3,9,0.07,2011-12-28,0.03,1,No,0,100.0
+8024,CBG CtyBGd HelpsHaiti rm#1:1-4,22486,Lisel,Brooklyn,Park Slope,40.68069,-73.97706,Private room,130,Mid ($75-149),2,130,1.09,2019-07-01,1.0,6,Yes,347,4.9
+8025,CBG Helps Haiti Room#2.5,22486,Lisel,Brooklyn,Park Slope,40.67989,-73.97798,Private room,80,Mid ($75-149),1,39,0.37,2019-01-01,0.488,6,No,364,0.3
+8110,CBG Helps Haiti Rm #2,22486,Lisel,Brooklyn,Park Slope,40.68001,-73.97865,Private room,110,Mid ($75-149),2,71,0.61,2019-07-02,0.645,6,No,304,16.7
+8490,"MAISON DES SIRENES1,bohemian apartment",25183,Nathalie,Brooklyn,Bedford-Stuyvesant,40.68371,-73.94028,Entire home/apt,120,Mid ($75-149),2,88,0.73,2019-06-19,0.733,2,No,233,36.2
+8505,Sunny Bedroom Across Prospect Park,25326,Gregory,Brooklyn,Windsor Terrace,40.65599,-73.97519,Private room,60,Budget (<$75),1,19,1.37,2019-06-23,0.317,2,Yes,85,76.7
+8700,Magnifique Suite au N de Manhattan - vue Cloitres,26394,Claude & Sophie,Manhattan,Inwood,40.86754,-73.92639,Private room,80,Mid ($75-149),4,0,0.0,No reviews yet,0.0,1,No,0,100.0
+9357,Midtown Pied-a-terre,30193,Tommi,Manhattan,Hell's Kitchen,40.76715,-73.98533,Entire home/apt,150,Premium ($150-299),10,58,0.49,2017-08-13,0.387,1,No,75,79.5
+9518,"SPACIOUS, LOVELY FURNISHED MANHATTAN BEDROOM",31374,Shon,Manhattan,Inwood,40.86482,-73.92106,Private room,44,Budget (<$75),3,108,1.11,2019-06-15,2.455,3,Yes,311,14.8
+9657,Modern 1 BR / NYC / EAST VILLAGE,21904,Dana,Manhattan,East Village,40.7292,-73.98542,Entire home/apt,180,Premium ($150-299),14,29,0.24,2019-04-19,0.161,1,No,67,81.6
+9668,front room/double bed,32294,Ssameer Or Trip,Manhattan,Harlem,40.82245,-73.95104,Private room,50,Budget (<$75),3,242,2.04,2019-06-01,4.84,3,Yes,355,2.7
+9704,Spacious 1 bedroom in luxe building,32045,Teri,Manhattan,Harlem,40.81305,-73.95466,Private room,52,Budget (<$75),2,88,1.42,2019-06-14,1.692,1,No,255,30.1
+9782,Loft in Williamsburg Area w/ Roof,32169,Andrea,Brooklyn,Greenpoint,40.72219,-73.93762,Private room,55,Budget (<$75),4,197,1.65,2019-06-15,3.582,3,Yes,284,22.2
+9783,back room/bunk beds,32294,Ssameer Or Trip,Manhattan,Harlem,40.8213,-73.95318,Private room,50,Budget (<$75),3,273,2.37,2019-07-01,5.46,3,Yes,359,1.6
+10452,Large B&B Style rooms,35935,Angela,Brooklyn,Bedford-Stuyvesant,40.6831,-73.95473,Private room,70,Budget (<$75),1,74,0.66,2019-05-12,1.057,2,No,269,26.3
+10962,"Lovely room 2 & garden; Best area, Legal rental",9744,Laurie,Brooklyn,South Slope,40.66869,-73.9878,Private room,89,Mid ($75-149),4,168,1.41,2019-06-21,1.888,3,Yes,340,6.8
+11452,Clean and Quiet in Brooklyn,7355,Vt,Brooklyn,Bedford-Stuyvesant,40.68876,-73.94312,Private room,35,Budget (<$75),60,0,0.0,No reviews yet,0.0,1,No,365,0.0
+11708,Cute apt in artist's home,44145,Tyrome,Brooklyn,Bushwick,40.70186,-73.92745,Entire home/apt,85,Mid ($75-149),2,231,1.96,2019-06-22,2.718,2,Yes,22,94.0
+11943,Country space in the city,45445,Harriet,Brooklyn,Flatbush,40.63702,-73.96327,Private room,150,Premium ($150-299),1,0,0.0,No reviews yet,0.0,1,No,365,0.0
+12048,LowerEastSide apt share shortterm 1,7549,Ben,Manhattan,Lower East Side,40.71401,-73.98917,Shared room,40,Budget (<$75),1,214,1.81,2019-07-05,5.35,4,Yes,188,48.5
+12192,ENJOY Downtown NYC!,46978,Edward,Manhattan,East Village,40.7229,-73.98199,Private room,68,Budget (<$75),2,245,2.08,2019-06-21,3.603,2,Yes,96,73.7
+12299,Beautiful Sunny Park Slope Brooklyn,47610,Abdul,Brooklyn,South Slope,40.66278,-73.97966,Entire home/apt,120,Mid ($75-149),3,15,0.39,2019-05-27,0.125,1,No,345,5.5
+12303,1bdr w private bath. in lofty apt,47618,Yolande,Brooklyn,Fort Greene,40.69673,-73.97584,Private room,120,Mid ($75-149),7,25,0.23,2018-09-30,0.208,1,No,311,14.8
+12318,West Side Retreat,16800,Cyn,Manhattan,Upper West Side,40.79009,-73.97927,Private room,135,Mid ($75-149),4,81,0.69,2019-06-16,0.6,1,No,273,25.2
+12343,BEST BET IN HARLEM,47727,Earl,Manhattan,Harlem,40.81175,-73.94478,Entire home/apt,150,Premium ($150-299),7,97,0.84,2019-06-13,0.647,1,No,309,15.3
+12627,Entire apartment in central Brooklyn neighborhood.,49670,Rana,Brooklyn,Prospect-Lefferts Gardens,40.65944,-73.96238,Entire home/apt,150,Premium ($150-299),29,11,0.49,2019-06-05,0.073,1,No,95,74.0
+12937,"1 Stop fr. Manhattan! Private Suite,Landmark Block",50124,Orestes,Queens,Long Island City,40.74771,-73.9474,Private room,130,Mid ($75-149),3,248,2.25,2019-07-01,1.908,1,No,215,41.1
+12940,Charming Brownstone 3 - Near PRATT,50148,Adreinne,Brooklyn,Bedford-Stuyvesant,40.68111,-73.95591,Entire home/apt,110,Mid ($75-149),7,61,0.52,2019-05-25,0.555,1,No,265,27.4
+13050,bright and stylish duplex,50846,Jennifer,Brooklyn,Bedford-Stuyvesant,40.68554,-73.9409,Entire home/apt,115,Mid ($75-149),3,11,0.1,2017-01-01,0.096,1,No,0,100.0
+13394,Fort Greene brownstone ,52335,Alexander,Brooklyn,Fort Greene,40.69142,-73.97376,Private room,80,Mid ($75-149),3,135,1.16,2019-06-17,1.688,2,Yes,192,47.4
+13808,Blue Room for 2 in Brownstone for $1350 monthly,54275,JT And Tiziana,Brooklyn,Bedford-Stuyvesant,40.68043,-73.93934,Private room,80,Mid ($75-149),1,112,1.01,2019-06-16,1.4,3,Yes,251,31.2
+14287,Cozy 1BD on Central Park West in New York City,56094,Joya,Manhattan,Upper West Side,40.78635,-73.97008,Entire home/apt,151,Premium ($150-299),2,73,0.63,2019-07-07,0.483,1,No,302,17.3
+14290,* ORIGINAL BROOKLYN LOFT *,56104,James,Brooklyn,Williamsburg,40.7042,-73.9356,Entire home/apt,228,Premium ($150-299),3,82,0.7,2019-05-17,0.36,1,No,140,61.6
+14314,Greenpoint Place...Has It All! ,56246,Jeanne,Brooklyn,Greenpoint,40.73506,-73.95392,Entire home/apt,144,Mid ($75-149),2,328,2.82,2019-06-29,2.278,1,No,234,35.9
+14322,Beautiful Apartment in Manhattan!!!,56284,Francesca,Manhattan,Kips Bay,40.73961,-73.98074,Entire home/apt,200,Premium ($150-299),7,19,0.22,2019-03-25,0.095,1,No,257,29.6
+14377,Williamsburg 1 bedroom Apartment,56512,Joanna,Brooklyn,Williamsburg,40.70881,-73.9593,Entire home/apt,150,Premium ($150-299),30,105,0.9,2019-06-22,0.7,1,No,30,91.8
+14991,"Great Location, Manhattan Bedroom!",59023,Bianca,Manhattan,Lower East Side,40.72004,-73.99104,Private room,110,Mid ($75-149),5,19,0.17,2019-05-18,0.173,1,No,301,17.5
+15220,Best Location in NYC! TIMES SQUARE!,59734,Luiz,Manhattan,Hell's Kitchen,40.75531,-73.99293,Private room,69,Budget (<$75),2,289,2.49,2019-06-09,4.188,2,Yes,294,19.5
+15338,Room in Greenpoint Loft w/ Roof,32169,Andrea,Brooklyn,Greenpoint,40.72401,-73.93788,Private room,49,Budget (<$75),4,138,1.19,2019-06-04,2.816,3,Yes,320,12.3
+15341,**Bright Nolita Apt w Doorman/Elevators/Gym**,60049,Ted,Manhattan,SoHo,40.7221,-73.99775,Entire home/apt,180,Premium ($150-299),30,21,0.3,2019-06-29,0.117,1,No,154,57.8
+15385,"Very, very cozy place",60252,Cristina,Brooklyn,Williamsburg,40.71185,-73.96204,Private room,80,Mid ($75-149),2,42,0.38,2019-06-30,0.525,1,No,263,27.9
+15396,Sunny & Spacious Chelsea Apartment,60278,Petra,Manhattan,Chelsea,40.74623,-73.9953,Entire home/apt,375,Luxury ($300+),180,5,0.12,2018-11-03,0.013,1,No,180,50.7
+15711,2 bedroom - Upper East Side-great for kids,61491,D,Manhattan,Upper East Side,40.77065,-73.95269,Entire home/apt,250,Premium ($150-299),2,66,0.57,2019-03-30,0.264,2,No,231,36.7
+16326,Comfortable 4-bedroom apt in family house.,63588,Dimitri,Brooklyn,Prospect Heights,40.67811,-73.96428,Entire home/apt,200,Premium ($150-299),30,143,1.33,2019-01-26,0.715,2,Yes,297,18.6
+16338,Double Room w Private Deck Clinton Hill Best Area,63613,Patricia,Brooklyn,Clinton Hill,40.69,-73.96788,Private room,55,Budget (<$75),7,27,0.23,2017-09-30,0.491,2,No,292,20.0
+16421,Your Heaven in Hells Kitchen,63924,Mark,Manhattan,Hell's Kitchen,40.75979,-73.99119,Private room,52,Budget (<$75),30,191,1.65,2019-05-16,3.673,1,No,191,47.7
+16458,Light-filled 2B duplex in the heart of Park Slope!,64056,Sara,Brooklyn,Park Slope,40.67343,-73.98338,Entire home/apt,225,Premium ($150-299),3,4,0.16,2017-09-24,0.018,1,No,0,100.0
+16580,"Sunny, Modern room in East Village!",64442,Reka,Manhattan,East Village,40.72649,-73.97904,Private room,80,Mid ($75-149),1,338,4.72,2019-07-01,4.225,2,Yes,72,80.3
+16595,*HAVEN LOFT - Entire Floor - Six Windows - Bricks*,64522,Daniel,Brooklyn,Williamsburg,40.70933,-73.96792,Entire home/apt,275,Premium ($150-299),1,148,1.4,2019-06-23,0.538,1,No,362,0.8
+16821,Large Room in Amazing East Village Apt,4396,Casey,Manhattan,East Village,40.72298,-73.98474,Private room,99,Mid ($75-149),1,106,1.26,2019-06-21,1.071,2,Yes,336,7.9
+16974,SpaHa Loft: Enormous and Bright,65837,Robin,Manhattan,East Harlem,40.80164,-73.93922,Entire home/apt,225,Premium ($150-299),4,190,1.64,2019-06-23,0.844,1,No,215,41.1
+17037,Lovely EV Artist's Home,66035,Anna,Manhattan,East Village,40.72162,-73.98008,Entire home/apt,230,Premium ($150-299),9,49,0.43,2018-05-14,0.213,1,No,116,68.2
+17092,Cool Room in Hell's Kitchen,66243,Enzo,Manhattan,Hell's Kitchen,40.76342,-73.98865,Private room,51,Budget (<$75),7,23,0.43,2019-06-01,0.451,1,No,88,75.9
+17693,"HARLEM, NEW YORK WELCOMES YOU!!",68428,Tye And Etienne,Manhattan,Washington Heights,40.83139,-73.94095,Private room,65,Budget (<$75),2,49,1.6,2019-06-18,0.754,2,Yes,336,7.9
+17747,BLUE TRIM GUEST HOUSE,68599,George,Brooklyn,Clinton Hill,40.68346,-73.96374,Private room,105,Mid ($75-149),2,105,0.92,2019-06-26,1.0,1,No,304,16.7
+18127,Charming East Village One Bedroom Flat,69829,Josh,Manhattan,East Village,40.72828,-73.98801,Entire home/apt,190,Premium ($150-299),5,21,0.2,2019-01-02,0.111,1,No,224,38.6
+18152,Manhattan Room,69942,Victoria,Manhattan,Upper East Side,40.76865,-73.95058,Private room,200,Premium ($150-299),1,142,1.5,2019-07-06,0.71,1,No,322,11.8
+18198,Little King of Queens,70091,Justin,Queens,Woodside,40.75038,-73.90334,Private room,70,Budget (<$75),30,25,0.22,2019-05-31,0.357,1,No,324,11.2
+18590,Fort Greene Retreat on the Park,71512,Blaise,Brooklyn,Fort Greene,40.6932,-73.97267,Private room,95,Mid ($75-149),3,143,1.28,2019-06-16,1.505,1,No,132,63.8
+18728,Beautiful Meatpacking District Loft,71876,DAVID And RICK,Manhattan,Chelsea,40.74138,-74.00197,Private room,150,Premium ($150-299),3,167,1.65,2019-05-28,1.113,1,No,295,19.2
+18764,Cozy 2 BR in Williamsburg ,72014,Lulú,Brooklyn,Williamsburg,40.71154,-73.96112,Private room,145,Mid ($75-149),3,61,0.54,2019-04-22,0.421,4,No,238,34.8
+19159,Spacious luminous apt Upper West NYC,73051,Sybilla,Manhattan,Harlem,40.82915,-73.95136,Entire home/apt,110,Mid ($75-149),31,54,0.49,2019-03-23,0.491,1,No,209,42.7
+19169,Entire 2 Bedroom - Large & Sunny,73128,JoLynn,Manhattan,Lower East Side,40.71851,-73.98892,Entire home/apt,285,Premium ($150-299),5,70,0.62,2019-06-30,0.246,1,No,328,10.1
+19282,"Sunny, Spacious Top Floor Haven",73469,Gaia,Brooklyn,Flatbush,40.65401,-73.96323,Entire home/apt,130,Mid ($75-149),6,16,0.15,2019-06-15,0.123,1,No,38,89.6
+19319,Private room Great Deal at Lower East Side,44263,Ana,Manhattan,Lower East Side,40.7114,-73.98794,Private room,94,Mid ($75-149),30,94,0.84,2019-04-08,1.0,1,No,188,48.5
+19601,perfect for a family or small group,74303,Maggie,Brooklyn,Brooklyn Heights,40.69723,-73.99268,Entire home/apt,800,Luxury ($300+),1,25,0.24,2016-08-04,0.031,1,No,7,98.1
+19812,2 bedroom Williamsburg Apt - Bedford L stop,74857,Starlee,Brooklyn,Williamsburg,40.71833,-73.95748,Entire home/apt,105,Mid ($75-149),3,61,0.53,2018-08-09,0.581,1,No,272,25.5
+20299,Oh glorious spring!,62407,Edward,Manhattan,East Village,40.72334,-73.9844,Private room,60,Budget (<$75),3,194,1.73,2019-06-30,3.233,1,No,26,92.9
+20300,Great Location for NYC,76627,Pas,Manhattan,East Village,40.72912,-73.98057,Private room,50,Budget (<$75),1,2,0.05,2016-02-14,0.04,1,No,0,100.0
+20611,Cozy Bedroom in Williamsburg 3 BR,72014,Lulú,Brooklyn,Williamsburg,40.71156,-73.96218,Private room,85,Mid ($75-149),3,174,1.54,2019-06-22,2.047,4,Yes,288,21.1
+20724,Sunny room+Pvte office in huge loft,961342,Augustin,Brooklyn,Bushwick,40.70032,-73.9383,Private room,65,Budget (<$75),4,24,0.28,2019-05-26,0.369,1,No,317,13.2
+20734,Spacious Prospect Heights Apartment,78460,Sean & Lynette,Brooklyn,Prospect Heights,40.68233,-73.97261,Entire home/apt,131,Mid ($75-149),4,166,3.4,2019-06-27,1.267,1,No,207,43.3
+20755,"Large Parlor Room, Landmark Home 1 block to PRATT",51038,Erica,Brooklyn,Clinton Hill,40.68634,-73.966,Private room,98,Mid ($75-149),7,16,0.2,2019-05-31,0.163,6,No,185,49.3
+20853,2-bed brownstone duplex + garden,79070,Tracy,Brooklyn,Prospect Heights,40.68035,-73.97162,Entire home/apt,250,Premium ($150-299),7,21,0.3,2019-05-21,0.084,1,No,158,56.7
+20913,Charming 1 bed GR8 WBurg LOCATION!,79402,Christiana,Brooklyn,Williamsburg,40.70984,-73.95775,Entire home/apt,100,Mid ($75-149),5,168,1.57,2018-07-22,1.68,1,No,0,100.0
+21293,Sunny Apartment in Artist Home,44145,Tyrome,Brooklyn,Bushwick,40.70093,-73.92609,Entire home/apt,105,Mid ($75-149),3,118,1.05,2019-06-18,1.124,2,Yes,9,97.5
+21456,Light-filled classic Central Park ,42032,Dana,Manhattan,Upper West Side,40.79764,-73.96177,Entire home/apt,140,Mid ($75-149),3,81,0.71,2019-07-07,0.579,1,No,198,45.8
+21644,"Upper Manhattan, New York",82685,Elliott,Manhattan,Harlem,40.82803,-73.94731,Private room,89,Mid ($75-149),1,1,0.11,2018-10-09,0.011,1,No,365,0.0
+21794,COZY QUIET room 4 DOOGLERS!,83257,Olan,Manhattan,Chelsea,40.74008,-74.00271,Private room,98,Mid ($75-149),30,30,0.27,2019-05-01,0.306,2,No,364,0.3
+22911,The Stuydio Modern and Light Filled,87773,Shelly,Brooklyn,Bedford-Stuyvesant,40.68413,-73.92357,Entire home/apt,125,Mid ($75-149),7,139,1.23,2018-10-28,1.112,2,Yes,311,14.8
+22918,loft bed - near transportation-15min to times sq,32294,Ssameer Or Trip,Manhattan,Harlem,40.82279,-73.95139,Private room,60,Budget (<$75),3,11,0.87,2019-01-03,0.183,3,No,219,40.0
+23135,House On Henry (3rd FLR Suite),11481,Annette,Brooklyn,Carroll Gardens,40.67967,-74.00154,Entire home/apt,175,Premium ($150-299),2,233,2.09,2019-06-24,1.331,3,Yes,342,6.3
+23501,Monkey Retreat Manhattan,63318,Meka,Manhattan,Washington Heights,40.83927,-73.94281,Private room,65,Budget (<$75),2,68,0.6,2012-11-01,1.046,1,No,312,14.5
+23686,2000 SF 3br 2bath West Village private  townhouse,93790,Ann,Manhattan,West Village,40.73096,-74.00319,Entire home/apt,500,Luxury ($300+),4,46,0.55,2019-05-18,0.092,2,No,243,33.4
+24143,"Williamsburg—Steps To Subway, Private Bath&Balcony",97219,Seth,Brooklyn,Williamsburg,40.71332,-73.94177,Private room,101,Mid ($75-149),3,335,3.02,2019-05-29,3.317,1,No,152,58.4
+24285,Beautiful Duplex Apartment,97797,Brenda,Brooklyn,Park Slope,40.66941,-73.98109,Entire home/apt,220,Premium ($150-299),30,88,0.79,2018-11-02,0.4,1,No,9,97.5
+25235,Large 2 Bedroom Great for Groups!,87773,Shelly,Brooklyn,Bedford-Stuyvesant,40.68373,-73.92377,Entire home/apt,125,Mid ($75-149),90,162,1.46,2019-06-28,1.296,2,Yes,137,62.5
+25406,"Modern Brooklyn Apt., August sublet",105538,Erik,Brooklyn,Williamsburg,40.71459,-73.94844,Entire home/apt,80,Mid ($75-149),30,29,0.4,2018-05-26,0.362,1,No,222,39.2
+25696,"1,800 sq foot in luxury building",107628,Dena,Manhattan,Harlem,40.8092,-73.94421,Private room,100,Mid ($75-149),2,170,1.61,2019-06-23,1.7,1,No,346,5.2
+26012,Sunny 2-story Brooklyn townhouse w deck and garden,109589,Jessica,Brooklyn,Gowanus,40.68157,-73.98989,Entire home/apt,200,Premium ($150-299),30,19,0.2,2017-03-17,0.095,1,No,208,43.0
+26362,"Times Square, Safe, Clean and Cozy!",59734,Luiz,Manhattan,Hell's Kitchen,40.75527,-73.99291,Private room,59,Budget (<$75),2,334,3.0,2019-06-16,5.661,2,Yes,279,23.6
+26520,"Cozy Room #3, Landmark Home 1 Block to PRATT",51038,Erica,Brooklyn,Clinton Hill,40.68698,-73.96572,Private room,125,Mid ($75-149),2,19,0.2,2019-06-02,0.152,6,No,250,31.5
+26559,Beautiful Apartment East Village,112793,Sally,Manhattan,East Village,40.7288,-73.98192,Entire home/apt,140,Mid ($75-149),7,12,0.13,2017-12-11,0.086,1,No,164,55.1
+26785,Park Slope Green Guest House,42273,Dani,Brooklyn,South Slope,40.66853,-73.98912,Entire home/apt,120,Mid ($75-149),30,467,4.22,2018-12-30,3.892,2,Yes,192,47.4
+26933,2 BR / 2 Bath Duplex Apt with patio! East Village,72062,Bruce,Manhattan,East Village,40.7254,-73.98157,Entire home/apt,350,Luxury ($300+),2,7,0.06,2017-08-09,0.02,4,No,298,18.4
+26954,NYC fabulous views Manhattan's eye,115157,Nimo,Manhattan,Kips Bay,40.74294,-73.98009,Entire home/apt,199,Premium ($150-299),5,38,0.38,2015-12-02,0.191,1,No,260,28.8
+26969,2 story family home in Williamsburg,115307,Alexandra,Brooklyn,Williamsburg,40.71942,-73.95748,Entire home/apt,325,Luxury ($300+),3,324,3.01,2019-06-23,0.997,1,No,107,70.7
+27006,Comfortable UWS 2-BD Family-Friendly Brownstone,115560,Stacy,Manhattan,Upper West Side,40.77823,-73.97637,Entire home/apt,235,Premium ($150-299),6,27,0.27,2019-04-27,0.115,1,No,199,45.5
+27385,Great Large 1 BR apt  in East Village!,72062,Bruce,Manhattan,East Village,40.72555,-73.97965,Entire home/apt,225,Premium ($150-299),1,115,1.05,2019-06-07,0.511,4,Yes,299,18.1
+27531,Eveland Private Bed & Living Room w/ Own Entrance,118971,Evelyn,Brooklyn,South Slope,40.66831,-73.98604,Private room,99,Mid ($75-149),2,354,3.2,2019-05-20,3.576,3,Yes,20,94.5
+27644,Sugar Hill Rest Stop ,119510,Emma,Manhattan,Harlem,40.82754,-73.94919,Entire home/apt,170,Premium ($150-299),2,195,2.03,2019-07-01,1.147,1,No,318,12.9
+27659,3 Story Town House in Park Slope,119588,Vero,Brooklyn,South Slope,40.66499,-73.97925,Entire home/apt,400,Luxury ($300+),2,16,0.24,2018-12-30,0.04,2,No,216,40.8
+27759,apartment next to Central park,119900,Sylvie,Manhattan,Upper West Side,40.77842,-73.97556,Entire home/apt,170,Premium ($150-299),7,13,0.12,2019-06-26,0.076,1,No,224,38.6
+27883,East Village Sanctuary,120223,Jen,Manhattan,East Village,40.72245,-73.98527,Entire home/apt,100,Mid ($75-149),4,25,0.23,2011-12-10,0.25,1,No,0,100.0
+28321,Large 1  BR in a 3 BR Brooklyn apt. next to Q Trn.,65091,Kay,Brooklyn,Prospect-Lefferts Gardens,40.65593,-73.96053,Private room,75,Mid ($75-149),2,9,0.08,2018-10-05,0.12,1,No,324,11.2
+28396,Modern Apt with Spectacular Views,6197784,Jo,Brooklyn,Williamsburg,40.71923,-73.96468,Private room,90,Mid ($75-149),1,9,0.08,2011-09-18,0.1,1,No,245,32.9
+28907,Garden studio in the Upper East Sid,124352,Lisa,Manhattan,Upper East Side,40.778,-73.94822,Entire home/apt,150,Premium ($150-299),5,21,0.19,2017-08-15,0.14,1,No,189,48.2
+29012,Secluded Master Bedroom in Beautiful Huge Apt,124797,Fernando And Lenin,Manhattan,Washington Heights,40.85879,-73.93128,Private room,85,Mid ($75-149),15,36,0.33,2017-08-17,0.424,1,No,307,15.9
+29013,B & B Room 1,35935,Angela,Brooklyn,Bedford-Stuyvesant,40.68332,-73.9547,Private room,70,Budget (<$75),3,63,0.58,2019-05-14,0.9,2,No,310,15.1
+29455,ACCOMMODATIONS GALORE #1,126607,Laurine,Manhattan,Harlem,40.81618,-73.94894,Entire home/apt,120,Mid ($75-149),3,155,1.42,2019-06-20,1.292,3,Yes,213,41.6
+29628,Sunny Room in New Condo,127608,Chris,Brooklyn,Clinton Hill,40.68414,-73.96351,Private room,89,Mid ($75-149),3,260,2.35,2019-07-03,2.921,1,No,278,23.8
+29683,Stylish & Sleek Apartment Near SoHo!,125857,Uli,Manhattan,East Village,40.72392,-73.99143,Entire home/apt,185,Premium ($150-299),5,73,0.66,2019-06-25,0.395,1,No,209,42.7
+30031,NYC artists' loft with roof deck,129352,Sol,Brooklyn,Greenpoint,40.73494,-73.9503,Private room,50,Budget (<$75),3,193,1.86,2019-05-20,3.86,1,No,0,100.0
+30927,Unique & Charming small 1br Apt. LES,120335,Cs,Manhattan,Lower East Side,40.71341,-73.98856,Entire home/apt,105,Mid ($75-149),3,32,0.29,2019-06-14,0.305,1,No,16,95.6
+31130,Most Central Location!,117287,Lara,Manhattan,Hell's Kitchen,40.76754,-73.98399,Private room,130,Mid ($75-149),2,50,0.45,2019-05-26,0.385,3,No,234,35.9
+31555,Luminous Beautiful West Village Studio,135619,Tom,Manhattan,West Village,40.73442,-74.00303,Entire home/apt,115,Mid ($75-149),29,26,0.25,2019-07-01,0.226,1,No,12,96.7
+31902,Sanctuary in East Flatbush,137292,Sunder,Brooklyn,Flatlands,40.63188,-73.93248,Private room,77,Mid ($75-149),2,2,0.02,2019-01-01,0.026,1,No,178,51.2
+31994,Room with En Suite Bathroom & Deck,137814,Waldemar,Brooklyn,Clinton Hill,40.6873,-73.9634,Private room,76,Mid ($75-149),2,426,3.89,2019-06-24,5.605,3,Yes,275,24.7
+32023,FLAT MACDONOUGH,137974,Khem,Brooklyn,Bedford-Stuyvesant,40.68296,-73.93662,Entire home/apt,125,Mid ($75-149),3,227,2.09,2019-06-23,1.816,2,Yes,163,55.3
+32037,Huge Private  Floor at The Waverly,116599,Sahr,Brooklyn,Clinton Hill,40.6863,-73.96765,Private room,135,Mid ($75-149),4,84,0.77,2019-07-01,0.622,3,No,365,0.0
+32100,"Modern Greenpoint, Brooklyn Apt",138579,Ali+Scott,Brooklyn,Greenpoint,40.73409,-73.95348,Entire home/apt,250,Premium ($150-299),29,3,0.03,2017-07-30,0.012,1,No,34,90.7
+32289,"Sun-drenched, artsy modernist 1 BDRM duplex",139612,Elisabeth,Brooklyn,Williamsburg,40.71561,-73.94835,Entire home/apt,199,Premium ($150-299),3,10,0.1,2018-06-11,0.05,1,No,280,23.3
+32331,"Sunny, Cobble Hill Apartment",139874,Sarah,Brooklyn,Cobble Hill,40.6857,-73.99183,Entire home/apt,140,Mid ($75-149),2,4,0.04,2016-04-24,0.029,1,No,0,100.0
+32363,Fully Furnished Basement Apartment,140025,Fredah,Queens,Flushing,40.74028,-73.83168,Private room,140,Mid ($75-149),2,1,0.01,2011-09-19,0.007,1,No,1,99.7
+32965,FLAT MACDONOUGH GARDEN,137974,Khem,Brooklyn,Bedford-Stuyvesant,40.68281,-73.93524,Entire home/apt,115,Mid ($75-149),3,124,1.72,2019-06-20,1.078,2,Yes,170,53.4
+32969,Light filled Williamsburg Apartment,142833,Katherine,Brooklyn,Williamsburg,40.71596,-73.93938,Entire home/apt,160,Premium ($150-299),3,11,0.11,2019-07-02,0.069,1,No,188,48.5
+33009,Retreat in Williamsburg,143027,Ming,Brooklyn,Williamsburg,40.71492,-73.95935,Entire home/apt,195,Premium ($150-299),4,240,2.19,2019-06-17,1.231,1,No,214,41.4
+33014,NYC Zen,143048,Paula,Manhattan,East Village,40.72354,-73.98295,Entire home/apt,195,Premium ($150-299),3,30,0.28,2019-06-17,0.154,1,No,248,32.1
+33223,Cozy BR in Wiliamsburg 3 Bedroom,72014,Lulú,Brooklyn,Williamsburg,40.71165,-73.96087,Private room,80,Mid ($75-149),3,200,1.86,2019-06-22,2.5,4,Yes,262,28.2
+34760,Sunny Room in Old Historical Brooklyn Townhouse,149929,Obed,Brooklyn,Fort Greene,40.69101,-73.97312,Private room,44,Budget (<$75),8,27,1.05,2019-06-29,0.614,5,Yes,280,23.3
+35526,Sun Filled Classic West Village Apt,120291,Karen,Manhattan,West Village,40.73474,-74.00101,Private room,156,Premium ($150-299),4,79,0.74,2019-06-22,0.506,1,No,307,15.9
+36121,Lg Rm in Historic Prospect Heights,62165,Michael,Brooklyn,Prospect Heights,40.67386,-73.96641,Private room,85,Mid ($75-149),15,9,0.09,2013-05-10,0.106,1,No,339,7.1
+36133,Classic Artist Loft Williamsburg,142684,White,Brooklyn,Williamsburg,40.71536,-73.96057,Private room,125,Mid ($75-149),3,155,1.61,2019-06-13,1.24,1,No,1,99.7
+36442,Great location. Spacious on PROSPECT PARK,137432,Paz,Brooklyn,Prospect Heights,40.6741,-73.96595,Entire home/apt,115,Mid ($75-149),15,4,0.05,2018-08-27,0.035,1,No,269,26.3
+36647,Private Bdrm/Bathrm. New! Elevator!,157798,Irene,Manhattan,East Harlem,40.79295,-73.93997,Private room,69,Budget (<$75),2,34,0.32,2017-05-29,0.493,1,No,10,97.3
+36703,"Sunny, clean 1 bdrm in W. Village",158284,Karene,Manhattan,West Village,40.73226,-74.00401,Entire home/apt,225,Premium ($150-299),45,134,1.24,2019-03-31,0.596,1,No,312,14.5
+36934,Great location in Williamsburg,159370,Viviana,Brooklyn,Williamsburg,40.71363,-73.96398,Entire home/apt,125,Mid ($75-149),6,27,0.25,2018-12-27,0.216,1,No,189,48.2
+38638,Light and Airy Upper East Side 1 BDR apartment,92788,Sara,Manhattan,Upper East Side,40.77711,-73.9527,Entire home/apt,219,Premium ($150-299),4,126,1.16,2019-06-26,0.575,2,Yes,290,20.5
+38663,Luxury Brownstone in Boerum Hill,165789,Sarah,Brooklyn,Boerum Hill,40.68559,-73.98094,Entire home/apt,475,Luxury ($300+),3,23,0.27,2018-12-31,0.048,1,No,230,37.0
+39267,CENTRAL PARK LOFT all for YOU,168417,Marie,Manhattan,Upper East Side,40.77456,-73.95323,Entire home/apt,99,Mid ($75-149),1,234,2.6,2019-06-08,2.364,2,Yes,164,55.1
+39282,Indie-Chic Share In Williamsburg,168525,Gus,Brooklyn,Williamsburg,40.71088,-73.95055,Private room,69,Budget (<$75),4,202,1.86,2019-05-28,2.928,2,Yes,53,85.5
+39593,"A room w/ a Manhattan view, longer stay",110506,Myung,Queens,Sunnyside,40.74559,-73.92313,Private room,79,Mid ($75-149),30,28,0.26,2019-04-12,0.354,1,No,126,65.5
+39704,"Private, Large & Sunny 1BR w/W&D",170510,Renée,Brooklyn,Bedford-Stuyvesant,40.68306,-73.94659,Entire home/apt,135,Mid ($75-149),2,309,2.86,2019-06-22,2.289,2,Yes,3,99.2
+40039,Luxurious Condo in DUBMO with View,171851,Henry,Brooklyn,DUMBO,40.70207,-73.98571,Private room,250,Premium ($150-299),3,14,0.13,2011-04-25,0.056,1,No,189,48.2
+40453,Charming & Cozy midtown loft any WEEK ENDS  !!!,174025,Sylvia,Manhattan,Upper East Side,40.76123,-73.9642,Entire home/apt,250,Premium ($150-299),3,4,0.08,2016-09-23,0.016,1,No,365,0.0
+41348,* Spacious GARDEN Park Slope Duplex* 6 people max,180083,Syl,Brooklyn,Gowanus,40.66858,-73.99083,Entire home/apt,250,Premium ($150-299),2,80,2.17,2019-07-06,0.32,1,No,0,100.0
+41513,Convenient cozy cheap apt Manhattan,181167,Lorenzo,Manhattan,Harlem,40.82704,-73.94907,Entire home/apt,80,Mid ($75-149),3,2,0.04,2015-11-02,0.025,1,No,0,100.0
+42580,Parlor Room In Victorian Townhouse,137814,Waldemar,Brooklyn,Clinton Hill,40.68843,-73.96408,Private room,70,Budget (<$75),2,294,3.47,2019-06-24,4.2,3,Yes,336,7.9
+42729,House On Henry (2nd FLR Suite),11481,Annette,Brooklyn,Carroll Gardens,40.6783,-74.00135,Entire home/apt,165,Premium ($150-299),2,150,1.4,2019-06-18,0.909,3,Yes,342,6.3
+42882,New York room with a view,185978,Newyorkroomwithaview,Staten Island,St. George,40.64524,-74.08088,Private room,70,Budget (<$75),2,166,1.66,2019-06-13,2.371,1,No,312,14.5
+43957,Sunny cozy room in Brklyn townhouse,177536,Tessa,Brooklyn,Bushwick,40.70641,-73.91765,Private room,50,Budget (<$75),2,47,0.94,2019-06-19,0.94,1,No,37,89.9
+44096,Room with a View,190409,Waundell,Bronx,Highbridge,40.83232,-73.93184,Private room,40,Budget (<$75),1,219,2.04,2019-07-04,5.475,3,Yes,353,3.3
+44161,Light+Open+Airy+Rustic+Modern Loft,193360,Young,Brooklyn,Williamsburg,40.71045,-73.9677,Entire home/apt,150,Premium ($150-299),2,193,1.78,2016-07-06,1.287,1,No,177,51.5
+44212,West Inn 2 - East Village,72062,Bruce,Manhattan,East Village,40.72518,-73.98034,Private room,125,Mid ($75-149),1,84,0.78,2019-06-23,0.672,4,No,310,15.1
+44221,Financial District Luxury Loft,193722,Coral,Manhattan,Financial District,40.70666,-74.01374,Entire home/apt,196,Premium ($150-299),3,114,1.06,2019-06-20,0.582,1,No,0,100.0
+44229,BROOKLYN VICTORIAN STYLE SUITE.....,181376,Carol,Brooklyn,Fort Greene,40.69098,-73.97113,Private room,110,Mid ($75-149),2,213,2.0,2019-06-24,1.936,2,Yes,321,12.1
+44288,Your own Lovely West Village Studio,193637,Sara,Manhattan,West Village,40.73756,-74.00405,Entire home/apt,170,Premium ($150-299),3,86,0.8,2019-06-01,0.506,1,No,246,32.6
+44506,ACCOMMODATIONS GALORE#3. 1-5 GUESTS,126607,Laurine,Manhattan,Harlem,40.81526,-73.94791,Entire home/apt,165,Premium ($150-299),3,80,0.75,2019-05-26,0.485,3,No,231,36.7
+45393,Greenwich Village Stylish Apartment,201297,Myrna,Manhattan,West Village,40.73423,-74.0046,Entire home/apt,150,Premium ($150-299),26,38,0.36,2016-04-20,0.253,1,No,225,38.4
+45542,Clean and Cozy Harlem Apartment,202249,Campbell,Manhattan,Harlem,40.82374,-73.9373,Entire home/apt,100,Mid ($75-149),2,18,1.79,2018-12-17,0.18,1,No,0,100.0
+45556,"Fort Greene, Brooklyn: Center Bedroom",67778,Doug,Brooklyn,Fort Greene,40.68863,-73.97691,Private room,65,Budget (<$75),2,206,1.92,2019-06-30,3.169,2,Yes,0,100.0
+45910,Beautiful Queens Brownstone! - 5BR,204539,Mark,Queens,Ridgewood,40.70382,-73.89797,Entire home/apt,350,Luxury ($300+),8,10,0.11,2019-05-12,0.029,5,No,365,0.0
+45936,Couldn't Be Closer To Columbia Uni,867225,Rahul,Manhattan,Morningside Heights,40.80549,-73.95924,Private room,99,Mid ($75-149),4,122,1.18,2019-05-14,1.232,2,Yes,233,36.2
+45940,Bright Spacious Luxury Condo,204724,Miyoung,Brooklyn,Williamsburg,40.71627,-73.9587,Entire home/apt,200,Premium ($150-299),4,33,0.58,2019-04-08,0.165,1,No,1,99.7
+46544,Park Slope haven 15 mins from Soho,8198,Monica,Brooklyn,Park Slope,40.67994,-73.97863,Entire home/apt,150,Premium ($150-299),5,52,0.5,2019-06-05,0.347,1,No,18,95.1
+46723,SAFE  AND BEAUTIFUL ACCOMODATION,209460,Marylyn,Brooklyn,Bedford-Stuyvesant,40.67992,-73.9475,Private room,90,Mid ($75-149),3,126,1.17,2019-05-19,1.4,4,Yes,343,6.0
+46911,Large Room in private Brownstone in Park Slope,210746,Kathleen R.,Brooklyn,Prospect Heights,40.67868,-73.97307,Private room,120,Mid ($75-149),3,51,0.48,2019-06-24,0.425,3,No,250,31.5
+47199,"NEW YORK CITY, 1 BDRM.(NEAR CENTRAL PARK & METRO)",212722,Teresa,Manhattan,Upper East Side,40.76834,-73.95334,Private room,75,Mid ($75-149),3,199,1.85,2019-06-24,2.653,1,No,326,10.7
+47362,"LARGE, COMFY 1BDR W/CHARACTER!!!",214148,Robert,Brooklyn,Bedford-Stuyvesant,40.68237,-73.9415,Entire home/apt,175,Premium ($150-299),26,30,0.29,2012-09-03,0.171,1,No,364,0.3
+47370,Chelsea Studio sublet 1 - 2 months,214287,Alex,Manhattan,Chelsea,40.74031,-73.99999,Entire home/apt,125,Mid ($75-149),3,3,0.03,2015-07-17,0.024,1,No,0,100.0
+47926,LUX APT IN TIMES SQUARE NEW BUILDING,218404,Claudia,Manhattan,Hell's Kitchen,40.76307,-73.99665,Entire home/apt,275,Premium ($150-299),1,41,0.38,2019-06-26,0.149,1,No,299,18.1
+48719,Designer 1 BR Duplex w/ Terrace- Spectacular Views,221873,Shane,Manhattan,Lower East Side,40.71882,-73.98852,Entire home/apt,299,Premium ($150-299),2,109,1.04,2019-06-15,0.365,1,No,207,43.3
+50447,Lovely Apt & Garden;  Legal;  Best Area; Amenities,9744,Laurie,Brooklyn,South Slope,40.6693,-73.98804,Entire home/apt,135,Mid ($75-149),5,151,1.43,2019-06-22,1.119,3,Yes,162,55.6
+51438,1 Bedroom in 2 Bdrm Apt- Upper East,236421,Jessica,Manhattan,Upper East Side,40.77333,-73.95199,Private room,130,Mid ($75-149),14,0,0.0,No reviews yet,0.0,2,No,0,100.0
+51485,Lower East Side $57~/night,236655,Erina,Manhattan,Lower East Side,40.72319,-73.99201,Private room,83,Mid ($75-149),1,285,2.69,2019-06-22,3.434,1,No,7,98.1
+51572,Prime Location in Manhattan,237329,Lee,Manhattan,Chelsea,40.74859,-73.99671,Private room,123,Mid ($75-149),1,375,3.52,2019-06-18,3.049,1,No,328,10.1
+51850,( F) Excellent/Pvt Rm,27848,Jullett,Queens,Jamaica,40.67252,-73.76597,Private room,55,Budget (<$75),2,52,0.49,2019-05-20,0.945,2,No,365,0.0
+53137,"Quiet, sunny Midtown Manhattan apt.",240360,Marlaine,Manhattan,Hell's Kitchen,40.76244,-73.99271,Entire home/apt,195,Premium ($150-299),5,10,1.01,2019-07-01,0.051,1,No,0,100.0
+53196,Big Room/Washer-Dryer/Wifi/AC/JMZ,247432,Charlotte,Brooklyn,Bedford-Stuyvesant,40.69546,-73.93503,Private room,80,Mid ($75-149),2,11,0.48,2017-11-13,0.138,1,No,0,100.0
+53469,cozy studio with parking spot,204539,Mark,Queens,Middle Village,40.71722,-73.87856,Entire home/apt,98,Mid ($75-149),30,33,0.31,2015-05-09,0.337,5,No,240,34.2
+53470,Clean and convenient 2BR apartment,204539,Mark,Queens,Ridgewood,40.70234,-73.89816,Private room,140,Mid ($75-149),7,6,0.06,2015-10-08,0.043,5,No,365,0.0
+53477,3 floors of luxury!,204539,Mark,Queens,Middle Village,40.71546,-73.87854,Entire home/apt,265,Premium ($150-299),7,38,0.38,2019-04-27,0.143,5,No,365,0.0
+54158,The Institute—Heart of Williamsburg,10889,Bob,Brooklyn,Williamsburg,40.7195,-73.95976,Entire home/apt,249,Premium ($150-299),2,358,3.44,2019-06-20,1.438,2,Yes,164,55.1
+54453,MIDTOWN WEST - Large alcove studio,255583,Anka,Manhattan,Hell's Kitchen,40.76548,-73.98474,Shared room,105,Mid ($75-149),6,10,0.09,2014-01-07,0.095,1,No,363,0.5
+54466,Beautiful Uptown Manhattan apartmnt,253385,Douglas,Manhattan,Harlem,40.80234,-73.95603,Private room,200,Premium ($150-299),30,0,0.0,No reviews yet,0.0,1,No,365,0.0
+54508,Sml Rm in pr Brst  Park Sl great for Med/students,210746,Kathleen R.,Brooklyn,Prospect Heights,40.6787,-73.97262,Private room,100,Mid ($75-149),2,226,2.12,2019-06-06,2.26,3,Yes,250,31.5
+54544,City Room - Private Penthouse Apt.,256161,Wayne,Manhattan,Harlem,40.81035,-73.94598,Entire home/apt,121,Mid ($75-149),1,104,1.0,2019-06-22,0.86,5,Yes,247,32.3
+54626,Cozy bedroom by Yankee Stadium,190409,Waundell,Bronx,Highbridge,40.83075,-73.93058,Private room,45,Budget (<$75),1,138,1.45,2019-06-30,3.067,3,Yes,323,11.5
+54860,Great apartment with private bathroom and entrance,258164,Jenny,Manhattan,East Harlem,40.79958,-73.94275,Private room,100,Mid ($75-149),5,204,1.92,2019-06-23,2.04,1,No,192,47.4
+55467,Private Garden Apt • New Renovation,260709,Paul,Brooklyn,Williamsburg,40.71625,-73.93845,Entire home/apt,140,Mid ($75-149),2,253,3.04,2019-07-02,1.807,1,No,125,65.8
+55498,Modern comfort in art infused landmark Brownstone,262138,Tami,Brooklyn,Bedford-Stuyvesant,40.6829,-73.93549,Private room,71,Budget (<$75),2,23,0.22,2019-07-01,0.324,1,No,91,75.1
+55668,"NOHO/EAST VILLAGE, PRIVATE 1/2 BATH",88209,Jason,Manhattan,NoHo,40.72773,-73.99134,Private room,130,Mid ($75-149),2,115,1.17,2018-12-05,0.885,1,No,75,79.5
+55737,Sleek & Comfortable Soho Apt,263414,Pete,Manhattan,West Village,40.72861,-74.0049,Entire home/apt,199,Premium ($150-299),5,129,1.22,2019-05-19,0.648,1,No,286,21.6
+55959,Spacious Williamsburg Share w/ LOFT BED,168525,Gus,Brooklyn,Williamsburg,40.70979,-73.95162,Private room,69,Budget (<$75),4,82,1.13,2019-06-10,1.188,2,Yes,60,83.6
+55982,Cozy 2 br in sunny Fort Greene apt,264928,Sally,Brooklyn,Fort Greene,40.68656,-73.97525,Private room,68,Budget (<$75),3,37,0.35,2018-12-31,0.544,1,No,0,100.0
+56467,Cozy East Village Railroad 1 Bed!,267593,Leonardo,Manhattan,East Village,40.72752,-73.98432,Entire home/apt,130,Mid ($75-149),1,204,2.04,2019-07-01,1.569,1,No,192,47.4
+56525,1 Bedroom Loft w/ Private Roof Deck,268014,Alex,Brooklyn,Greenpoint,40.729,-73.95829,Entire home/apt,195,Premium ($150-299),2,69,0.65,2019-06-13,0.354,1,No,58,84.1
+56859,City Room - Private & Comfy Bedroom,256161,Wayne,Manhattan,Harlem,40.81219,-73.94499,Private room,64,Budget (<$75),1,192,1.84,2019-06-03,3.0,5,Yes,245,32.9
+57166,Elegant NYC Pad,272006,Vasili,Queens,Ditmars Steinway,40.77185,-73.90502,Entire home/apt,140,Mid ($75-149),2,17,0.16,2019-06-17,0.121,1,No,292,20.0
+57297,"Clean & bright 1BR in Cobble Hill, GREAT location!",199392,S.M.,Brooklyn,Cobble Hill,40.68926,-73.99386,Entire home/apt,159,Premium ($150-299),2,222,2.12,2019-06-24,1.396,1,No,279,23.6
+57468,"Modern, Large East Village Loft",239208,Ori,Manhattan,East Village,40.72821,-73.98701,Entire home/apt,189,Premium ($150-299),3,205,1.96,2019-06-23,1.085,1,No,0,100.0
+57618,"Great new apt, close to everything",274557,Ana,Manhattan,Hell's Kitchen,40.7672,-73.98508,Entire home/apt,250,Premium ($150-299),3,94,0.96,2019-06-09,0.376,1,No,3,99.2
+57740,Quiet & Clean Retreat in the City,275459,I,Manhattan,East Village,40.73012,-73.99053,Entire home/apt,239,Premium ($150-299),3,7,0.07,2019-05-24,0.029,1,No,351,3.8
+57754,Stylish Large Gramercy Loft!,275578,R,Manhattan,Flatiron District,40.7403,-73.98498,Entire home/apt,305,Luxury ($300+),2,108,1.09,2019-06-30,0.354,1,No,201,44.9
+57874,The Brownstone-Luxury 1 Bd Apt/NYC,276291,Simon,Manhattan,Harlem,40.80931,-73.94343,Entire home/apt,155,Premium ($150-299),3,222,2.1,2019-06-26,1.432,2,Yes,232,36.4
+58059,PRIVATE Room on Historic Sugar Hill,277379,Agnes,Manhattan,Harlem,40.8251,-73.94287,Private room,60,Budget (<$75),1,458,4.58,2019-07-03,7.633,2,Yes,258,29.3
+58062,South Slope Green,277394,Linda,Brooklyn,Windsor Terrace,40.6585,-73.98397,Private room,135,Mid ($75-149),2,21,0.26,2019-05-17,0.156,1,No,272,25.5
+58467,"17 Flr. Manhattan Views, Nr. Subway",279797,Dave,Manhattan,Roosevelt Island,40.76193,-73.9501,Private room,120,Mid ($75-149),7,17,0.3,2019-05-08,0.142,1,No,341,6.6
+59014,"Spacious 1BR, Adorable Clean Quiet",282927,Drica,Manhattan,Lower East Side,40.72052,-73.98589,Entire home/apt,150,Premium ($150-299),3,41,0.39,2019-01-02,0.273,1,No,244,33.2
+59121,"Nice, clean, safe, convenient 3BR",204539,Mark,Queens,Ridgewood,40.70411,-73.89934,Entire home/apt,140,Mid ($75-149),14,1,0.01,2012-09-17,0.007,5,No,365,0.0
+59642,Franklin St Flat in Trendy Greenpoint Brooklyn,274782,Betty,Brooklyn,Greenpoint,40.73401,-73.95967,Entire home/apt,135,Mid ($75-149),2,69,0.67,2019-05-19,0.511,1,No,12,96.7
+59709,"Artistic, Cozy, and Spacious w/ Patio! Sleeps 5",186084,Ricardo & Ashlie,Manhattan,Chinatown,40.71756,-73.99503,Entire home/apt,250,Premium ($150-299),4,18,0.18,2019-07-01,0.072,2,No,265,27.4
+59855,One bedroom Apt. in NYC,288031,Leslie,Manhattan,Midtown,40.7589,-73.96991,Entire home/apt,250,Premium ($150-299),30,82,0.78,2016-01-05,0.328,1,No,0,100.0
+60164,"Beautiful, elegant 3 bed SOHO loft",289653,Harrison,Manhattan,SoHo,40.72003,-74.00262,Entire home/apt,500,Luxury ($300+),4,94,0.99,2019-06-23,0.188,1,No,329,9.9
+60457,Spacious Greenwich Village Apt,99212,Jessica,Manhattan,Greenwich Village,40.73194,-73.99474,Entire home/apt,225,Premium ($150-299),5,10,0.1,2019-05-11,0.044,1,No,91,75.1
+60611,SpaHa Studio Monthly Rental,292204,Blanca,Manhattan,East Harlem,40.79163,-73.94573,Entire home/apt,125,Mid ($75-149),28,183,1.83,2018-09-29,1.464,2,Yes,365,0.0
+60666,City Room - Private Luxury Suite,256161,Wayne,Manhattan,Harlem,40.8118,-73.94434,Private room,92,Mid ($75-149),1,189,1.82,2019-06-11,2.054,5,Yes,253,30.7
+60673,Private Room/bath Luxurious Harlem,249372,Cynthia,Manhattan,Harlem,40.81583,-73.94707,Private room,175,Premium ($150-299),2,1,0.11,2018-10-07,0.006,1,No,365,0.0
+60680,The gem of the East Village,292630,Mich,Manhattan,East Village,40.72654,-73.98049,Entire home/apt,99,Mid ($75-149),2,127,1.22,2019-06-20,1.283,1,No,320,12.3
+60794,"Bright and spacious, garden below!",293394,Rachel,Manhattan,Upper West Side,40.80021,-73.96071,Entire home/apt,195,Premium ($150-299),4,4,0.04,2017-08-25,0.021,1,No,0,100.0
+60948,ACCOMMODATIONS GALORE #2,126607,Laurine,Manhattan,East Harlem,40.80942,-73.93936,Entire home/apt,140,Mid ($75-149),3,135,1.3,2019-06-20,0.964,3,Yes,192,47.4
+61167,Colorful Private One Bedroom Apt,295760,Greta,Manhattan,Little Italy,40.71961,-73.9954,Entire home/apt,135,Mid ($75-149),2,21,0.2,2015-12-12,0.156,1,No,0,100.0
+61224,Huge Chelsea Loft,291112,Frank,Manhattan,Chelsea,40.74358,-74.00027,Entire home/apt,500,Luxury ($300+),2,35,0.34,2017-07-27,0.07,1,No,348,4.7
+61406,Great room in great location,297176,Bethania,Manhattan,Harlem,40.80335,-73.9575,Private room,80,Mid ($75-149),14,10,2.21,2019-06-01,0.125,2,Yes,0,100.0
+61492,Exclusive Room with Private Bath in  LES,297769,Tunji,Manhattan,Chinatown,40.71445,-73.9908,Private room,120,Mid ($75-149),4,171,1.8,2019-06-23,1.425,2,Yes,353,3.3
+61509,"Quiet, clean midtown apt w. elevato",23619,Anna/Fonzy,Manhattan,Midtown,40.75749,-73.96897,Entire home/apt,110,Mid ($75-149),200,92,0.9,2019-04-30,0.836,1,No,140,61.6
+62095,BK Sweet Suite w/Kitchen&FullBath,281764,Colette&Sean,Brooklyn,East Flatbush,40.64446,-73.9503,Entire home/apt,65,Budget (<$75),3,238,2.3,2019-06-14,3.662,1,No,2,99.5
+62427,Great East Village Apartment Rental,303882,Brie,Manhattan,East Village,40.7268,-73.99079,Entire home/apt,130,Mid ($75-149),50,56,0.58,2019-05-26,0.431,1,No,56,84.7
+62430,BROWNSTONE SUNDRENCHED BEAUTY,197755,Sheila,Brooklyn,Bushwick,40.688,-73.9171,Entire home/apt,99,Mid ($75-149),3,111,2.13,2019-06-22,1.121,1,No,68,81.4
+62452,A SpeciaL!! Private Room in NY,303939,Lissette,Staten Island,Tompkinsville,40.63536,-74.08537,Private room,36,Budget (<$75),2,193,1.85,2019-06-25,5.361,6,Yes,360,1.4
+62461,B NYC Staten Alternative...,303939,Lissette,Staten Island,Tompkinsville,40.63627,-74.08543,Private room,37,Budget (<$75),2,147,1.44,2019-06-10,3.973,6,Yes,0,100.0
+62787,C Private Room By The Ferry,303939,Lissette,Staten Island,Tompkinsville,40.63518,-74.08546,Private room,37,Budget (<$75),2,177,1.71,2019-07-02,4.784,6,Yes,320,12.3
+62891,Smallest House In The Village,306545,Olivia,Manhattan,East Village,40.72477,-73.98161,Entire home/apt,175,Premium ($150-299),3,185,1.78,2019-05-24,1.057,2,Yes,326,10.7
+62903,Beautiful modern studio apartment in heart of NYC,306605,Daniel,Manhattan,Chelsea,40.74238,-73.99567,Entire home/apt,205,Premium ($150-299),9,62,0.7,2019-06-21,0.302,2,No,76,79.2
+62925,Beautiful Landmarked Duplex,306739,Maya,Brooklyn,Greenpoint,40.72945,-73.95511,Entire home/apt,285,Premium ($150-299),3,124,1.22,2019-06-16,0.435,3,Yes,279,23.6
+63299,BROOKLYN > Guest Room w/ Queen Bed in Williamsburg,308875,Scott,Brooklyn,Williamsburg,40.70763,-73.95177,Private room,59,Budget (<$75),2,181,1.77,2019-06-23,3.068,2,Yes,15,95.9
