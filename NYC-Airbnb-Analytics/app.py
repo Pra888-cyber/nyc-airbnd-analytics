@@ -205,7 +205,7 @@ with n2:
 
 if show_map and HAS_LATLON:
     st.subheader("Listings map")
-    fig_map = px.scatter_mapbox(
+    fig_map = px.scatter_map(
         fdf,
         lat="latitude",
         lon="longitude",
