@@ -8,9 +8,9 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-# --------------------------------------------------------------------------
+
 # Page config
-# --------------------------------------------------------------------------
+
 st.set_page_config(
     page_title="Airbnb NYC Analytics",
     page_icon="🏙️",
@@ -18,12 +18,13 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-CSV_PATH = "airbnb_nyc_cleaned.csv"
+
+CSV_PATH = "NYC-Airbnb-Analytics/airbnb_nyc_cleaned.csv"
 
 
-# --------------------------------------------------------------------------
+
 # Data loading
-# --------------------------------------------------------------------------
+
 @st.cache_data
 def load_data(path: str) -> pd.DataFrame:
     df = pd.read_csv(path)
@@ -55,9 +56,9 @@ HAS_POWER_HOST = "is_power_host" in df.columns
 HAS_REVIEWS = "number_of_reviews" in df.columns
 
 
-# --------------------------------------------------------------------------
+
 # Sidebar — filters
-# --------------------------------------------------------------------------
+
 st.sidebar.header("Filters")
 
 boroughs = sorted(df["neighbourhood_group"].dropna().unique().tolist())
